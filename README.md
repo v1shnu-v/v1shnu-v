@@ -12,7 +12,7 @@ I'm Vishnu Vijay, I'm an aspiring engineer who is passionate about coding. I'm a
 - ⚡ Languages: Python3, C++, Verilog
 
 
-> El Psy Kongroo
+
 
 
 ---
