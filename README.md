@@ -1,20 +1,19 @@
 # Vishnu Vijay 
-[![Linkedin Badge](https://img.shields.io/badge/-vishnuvijay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishnu-vijay-6a9584154/)](https://www.linkedin.com/in/vishnu-vijay-6a9584154/) [![Medium Badge](https://img.shields.io/badge/-@KunalRaghav-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@KunalRaghav/)](https://medium.com/@KunalRaghav/)
-[![Gmail Badge](https://img.shields.io/badge/-kraghav123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kraghav123@gmail.com)](mailto:kraghav123@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-vishnuvijay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishnu-vijay-6a9584154/)](https://www.linkedin.com/in/vishnu-vijay-6a9584154/)
+[![Gmail Badge](https://img.shields.io/badge/-vishnuv8100@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vishnuv8100@gmail.com)](mailto:vishnuv8100@gmail.com)
 
 ## Hi 👋, 
-I'm Kunal Raghav, I'm a software engineer 👨‍💻 who is passionate about mobile technologies and open source. I'm also a self proclaimed graphic designer and internet surfer 
-🏄‍♂️. 
+I'm Vishnu Vijay, I'm an aspiring engineer who is passionate about coding. I'm also a self proclaimed graphic designer and memelord✅
 
-- 🔭 I’m currently working on Android Apps
-- 🌱 I’m currently learning JavaScript
-- 💬 Ask me about: tech, memes, anime
+- 🔭 I’m currently working on Discord Bots
+- 🌱 I’m currently learning discord.py and PIL
+- 💬 Ask me about: tech, gaming and memes
 - 😄 Pronouns: he/him
--  ⚡ Languages: Java, Kotlin, Python3
+- ⚡ Languages: Python3, C++, Verilog
 
 
 > El Psy Kongroo
 
 
 ---
-⭐️ From [KunalRaghav](https://github.com/KunalRaghav
+⭐️ From [VishnuVijay](https://github.com/v1shnu-v]
