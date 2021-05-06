@@ -5,8 +5,8 @@
 ## Hi 👋, 
 I'm Vishnu Vijay, I'm an aspiring engineer who is passionate about coding. I'm also a self proclaimed graphic designer and memelord✅
 
-- 🔭 I’m currently working on Discord Bots
-- 🌱 I’m currently learning discord.py and PIL
+- 🔭 I’m currently working on Python and Verilog projects
+- 🌱 I’m currently learning DSA
 - 💬 Ask me about: tech, gaming and memes
 - 😄 Pronouns: he/him
 - ⚡ Languages: Python3, C++, Verilog
