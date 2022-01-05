@@ -8,7 +8,7 @@ I'm Vishnu Vijay, an aspiring engineer who is passionate about coding. I'm also 
 - 🔭 I’m currently working on Python and Verilog projects
 - 💬 Ask me about: tech, gaming and memes
 - 😄 Pronouns: he/him
-- ⚡ Languages: Python3, C++, Verilog
+- ⚡ Languages: Python3, C/C++, Verilog
 
 
 
