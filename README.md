@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-vishnuv8100@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vishnuv8100@gmail.com)](mailto:vishnuv8100@gmail.com)
 
 ## Hi 👋, 
-I'm Vishnu Vijay, an aspiring engineer who is passionate about coding. I'm also a self proclaimed graphic designer and memelord.
+I'm Vishnu Vijay, an electronics engineer who is equally passionate about computer science. I'm also a self proclaimed graphic designer and memelord.
 
 - 🔭 I’m currently working on Python and C/C++ projects
 - 💬 Ask me about: tech, gaming and memes
