@@ -5,10 +5,10 @@
 ## Hi 👋, 
 I'm Vishnu Vijay, an electronics engineer who is equally passionate about computer science. I'm also a self proclaimed graphic designer and memelord.
 
-- 🔭 I’m currently working on Python and C/C++ projects
+- 🔭 I’m currently working on Javascript, Python and C/C++ projects
 - 💬 Ask me about: tech, gaming and memes
 - 😄 Pronouns: he/him
-- ⚡ Languages: Python3, C/C++, Verilog
+- ⚡ Languages: Python3, C/C++, HTML, CSS, Javascript, Verilog
 
 
 
